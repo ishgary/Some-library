@@ -2,3 +2,9 @@
 header{
     align-items:flex-end;
 }
+#box {
+    border: 1px solid black;
+    
+    text-align: center;
+
+}
